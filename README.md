@@ -1,6 +1,6 @@
 ## Hi there! 💫
 
-👩‍💻 I’m Anne, a 2nd-year Computer Science major at UCLA passionate about the intersection of technology and social good.
+👩‍💻 I’m Anne, a Computer Science major at UCLA passionate about the intersection of technology and social good.
 
 ### Current coding projects:
  - Using AI to streamline nonprofit support in Los Angeles for the Goldhirsh Foundation 🤝
