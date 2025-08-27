@@ -1,12 +1,12 @@
-## Hi there! 💫
+## 💫 Hi there!
 
-👩‍💻 I’m Anne, a Computer Science major at UCLA passionate about the intersection of technology and social good.
+I’m Anne, a Computer Science major at UCLA passionate about the intersection of technology and social good.
 
+<!--
 ### Current coding projects:
  - Using AI to streamline nonprofit support in Los Angeles for the Goldhirsh Foundation 🤝
  - Updating the website for ACM at UCLA, Southern California’s largest CS student organization 🌐
  - Building Opennote (opennote.me), an EdTech startup backed by the Microsoft for Startups Founders Hub 👀
-
 
 ### Previous coding projects:
 - Attending (and winning!) hackathons
@@ -17,6 +17,7 @@
 - Taught mobile app development, including Swift and Git/GitHub, at Kode With Klossy, where I was once a web development and data science scholar 📱
 
 📩 Feel free to email doanneda[at]gmail[dot]com!
+-->
 
 <!--
 **doanneda/doanneda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
