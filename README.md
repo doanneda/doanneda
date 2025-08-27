@@ -15,9 +15,9 @@ I’m Anne, a Computer Science major at UCLA passionate about the intersection o
   - MentorSpace, an AI-powered (again, I know) mentorship matching platform for women in engineering 🌌
   - Picnic, a web app that streamlines group food delivery orders to help college students split expensive fees 🧺
 - Taught mobile app development, including Swift and Git/GitHub, at Kode With Klossy, where I was once a web development and data science scholar 📱
+-->
 
 📩 Feel free to email doanneda[at]gmail[dot]com!
--->
 
 <!--
 **doanneda/doanneda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
